@@ -1,0 +1,2 @@
+# AiCore
+Projects from AiCore
